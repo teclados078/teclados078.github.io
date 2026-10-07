@@ -49,8 +49,13 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% if site.affiliation_links %}
+        {% for affiliation in site.affiliation_links %}
+        <a href="{{ affiliation.url }}" rel="noopener"><autocolor>{{ affiliation.name }}</autocolor></a>{% unless forloop.last %} / {% endunless %}
+        {% endfor %}
+        <br>
+        {% elsif site.affiliation %}
+        {% if site.affiliation_link %}<a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>{% else %}<autocolor>{{ site.affiliation }}</autocolor>{% endif %}
         <br>
         {% endif %}
         {% if site.email %}
