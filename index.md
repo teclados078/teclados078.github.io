@@ -11,7 +11,7 @@ I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-
 **Advisor:** [Prof. HyeongYeop Kang](https://siamiz88.github.io/)  
 **Location:** Seoul, Republic of Korea  
 **ORCID:** [0009-0000-5306-6896](https://orcid.org/0009-0000-5306-6896)  
-**Lab:** [IIIXR Lab](https://iiixr.korea.ac.kr)
+**Lab:** IIIXR Lab
 
 ## Research Interests
 
