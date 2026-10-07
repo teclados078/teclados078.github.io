@@ -4,15 +4,16 @@
     conference_short: "SIGGRAPH"
     conference: "ACM SIGGRAPH Conference Papers, 2026."
     paper: "https://dl.acm.org/doi/10.1145/3799902.3811215"
+    arxiv: "https://arxiv.org/abs/2605.20872"
     code: "https://github.com/teclados078/CAdam"
     page: "https://teclados078.github.io/CAdam/"
-    notes: "Accepted"
 
   - title: "3DStyleGLIP: Part-Tailored Text-Guided 3D Neural Stylization"
     authors: "<strong>SeungJeh Chung</strong>, JooHyun Park, HyeongYeop Kang"
     conference_short: "PG"
     conference: "Pacific Graphics, 2024."
     paper: "https://diglib.eg.org/handle/10.2312/pg20241320"
+    arxiv: "https://arxiv.org/abs/2404.02634"
     code: "https://github.com/teclados078/3DStyleGLIP"
 
   - title: "VRCAT: VR Collision Alarming Technique for User Safety"
