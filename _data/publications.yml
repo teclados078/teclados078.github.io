@@ -14,7 +14,7 @@
     conference: "Pacific Graphics, 2024."
     paper: "https://diglib.eg.org/handle/10.2312/pg20241320"
     arxiv: "https://arxiv.org/abs/2404.02634"
-    code: "https://github.com/teclados078-c/3DStyleGLIP"
+    code: "https://github.com/teclados078/3DStyleGLIP"
 
   - title: "VRCAT: VR Collision Alarming Technique for User Safety"
     authors: "<strong>SeungJeh Chung</strong>, TaeHun Lee, BoRa Jeong, JongWook Jeong, HyeongYeop Kang"
