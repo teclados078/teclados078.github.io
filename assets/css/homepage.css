@@ -5,15 +5,24 @@ header .image.avatar {
 
 header .image.avatar img {
   display: block;
-  width: 150px;
+  width: 220px;
   height: auto;
   padding: 0;
   border-radius: 12px;
 }
 
-@media screen and (max-width: 480px) {
-  header .image.avatar img {
-    width: 130px;
+header email {
+  display: inline-block;
+  margin-top: 6px;
+  color: #1d5fa7;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  header email {
+    color: #8ab4f8;
   }
 }
 
