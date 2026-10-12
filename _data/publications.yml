@@ -1,4 +1,9 @@
 ﻿main:
+  - title: "ADIScene: Affordance-Guided Diffusion for Interaction-Feasible 3D Scene Generation"
+    authors: "Misong Kim, JuYeong Hwang, <strong>SeungJeh Chung</strong>, Jaeyoung Seon, Ri Yu, HyeongYeop Kang"
+    conference_short: "ACCV"
+    conference: "ACCV 2026 — Accepted (Poster)."
+
   - title: "CAdam: Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation"
     authors: "<strong>SeungJeh Chung</strong>, Geonho Park, Misong Kim, HyeongYeop Kang"
     conference_short: "SIGGRAPH"

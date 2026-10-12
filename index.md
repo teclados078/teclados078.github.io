@@ -20,15 +20,10 @@ I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-
 - **Diffusion & Flow Matching Models**
 - **Extended Reality & 3D Stylization**
 
-## Research Highlights
-
-- Compact 3D Gaussian densification for generative distillation.
-- Efficient 3D generation with Gaussian representations and diffusion/flow-based priors.
-- Hybrid neural rendering with physically based global illumination.
-
 ## News
 
-- **[2026]** CAdam accepted to ACM SIGGRAPH Conference Papers.
+- **[2026]** ADIScene accepted to ACCV 2026 for a poster presentation.
+- **[2026]** CAdam presented at ACM SIGGRAPH Conference Papers.
 - **[2024]** 3DStyleGLIP appeared at Pacific Graphics.
 - **[2023]** VRCAT appeared in The Visual Computer.
 
@@ -44,5 +39,27 @@ I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-
 - **Research Areas:** 3D Gaussian Splatting, diffusion/flow matching models, neural rendering
 
 {% include_relative _includes/publications.md %}
+
+## Selected Research Projects
+
+- **Physical AI Scene Generation Platform: Asset-Scene Generation for Humanoid Training Environments**  
+  LG CNS · 2026  
+  Main Researcher
+
+- **Gaussian VR Space Representation for Realistic Rendering and Interaction in Dynamic Lighting**  
+  National Research Foundation of Korea (NRF) · 2025–2029  
+  Main Researcher
+
+- **Interactive Gaussian Rendering for Game Development**  
+  Pearl Abyss · 2025–2026  
+  Main Researcher
+
+- **AI-Driven Rendering Pipeline for Next-Generation Game Production**  
+  Pearl Abyss · 2025–2026  
+  Main Researcher
+
+## Awards
+
+- **[Excellent Paper Award (우수상)](https://cg-korea.org/index.php?hCode=AWARD_02_03)**, KCGS 2026 — CAdam
 
 {% include_relative _includes/services.md %}
