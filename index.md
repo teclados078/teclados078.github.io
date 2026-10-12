@@ -15,10 +15,10 @@ I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-
 
 ## Research Interests
 
-- **3D Gaussian Splatting:** compact representations, densification, generative distillation
-- **Diffusion and Flow Matching Models:** generative supervision and 3D priors
-- **Neural Rendering:** efficient rendering and physically based global illumination
-- **3D Generation, 3D Stylization, Extended Reality**
+- **3D Scene Generation & Gaussian Splatting**
+- **Neural Rendering & Global Illumination**
+- **Diffusion & Flow Matching Models**
+- **Extended Reality & 3D Stylization**
 
 ## Research Highlights
 
