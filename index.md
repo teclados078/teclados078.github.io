@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Software Convergence at Kyung Hee University and a member of IIIXR Lab at Korea University. My research focuses on efficient 3D generation, neural rendering, and 3D Gaussian Splatting under generative supervision.
+I am a Ph.D. student in the Department of Software Convergence at Kyung Hee University and a member of IIIXR Lab at Korea University. My research focuses on **efficient 3D generation**, **neural rendering**, and **3D Gaussian Splatting** under generative supervision.
 
-I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-based generative priors, and hybrid neural rendering with physically based global illumination.
+I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-based generative priors, and hybrid neural rendering with physically based **global illumination**.
 
 **Advisor:** [Prof. HyeongYeop Kang](https://siamiz88.github.io/)  
 **Location:** Seoul, Republic of Korea  
@@ -17,18 +17,18 @@ I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-
 
 - **3D Scene Generation & Gaussian Splatting**
 - **Neural Rendering & Global Illumination**
-- **Diffusion & Flow Matching Models**
-- **Extended Reality & 3D Stylization**
+- Diffusion & Flow Matching Models
+- Extended Reality & 3D Stylization
 
 {% include_relative _includes/publications.md %}
 
 ## Research Projects (Government/Industry Funded)
 
+- **Gaussian VR Space Representation for Realistic Rendering and Interaction in Dynamic Lighting**  
+  National Research Foundation of Korea (NRF) · 2025–2029 · Main Researcher
+
 - **Physical AI Scene Generation Platform: Asset-Scene Generation for Humanoid Training Environments**  
   LG CNS · 2026 · Main Researcher
-
-- **Gaussian VR Space Representation for Realistic Rendering and Interaction in Dynamic Lighting**  
-  NRF · 2025–2029 · Main Researcher
 
 - **Interactive Gaussian Rendering for Game Development**  
   Pearl Abyss · 2025–2026 · Main Researcher

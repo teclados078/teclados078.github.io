@@ -1,9 +1,4 @@
 ﻿main:
-  - title: "ADIScene: Affordance-Guided Diffusion for Interaction-Feasible 3D Scene Generation"
-    authors: "Misong Kim, JuYeong Hwang, <strong>SeungJeh Chung</strong>, Jaeyoung Seon, Ri Yu, HyeongYeop Kang"
-    conference_short: "ACCV"
-    conference: "ACCV 2026 — Accepted (Poster)."
-
   - title: "CAdam: Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation"
     authors: "<strong>SeungJeh Chung</strong>, Geonho Park, Misong Kim, HyeongYeop Kang"
     conference_short: "SIGGRAPH"
@@ -12,6 +7,11 @@
     arxiv: "https://arxiv.org/abs/2605.20872"
     code: "https://github.com/teclados078/CAdam"
     page: "https://teclados078.github.io/CAdam/"
+
+  - title: "ADIScene: Affordance-Guided Diffusion for Interaction-Feasible 3D Scene Generation"
+    authors: "Misong Kim, JuYeong Hwang, <strong>SeungJeh Chung</strong>, Jaeyoung Seon, Ri Yu, HyeongYeop Kang"
+    conference_short: "ACCV"
+    conference: "Asian Conference on Computer Vision (ACCV), 2026."
 
   - title: "3DStyleGLIP: Part-Tailored Text-Guided 3D Neural Stylization"
     authors: "<strong>SeungJeh Chung</strong>, JooHyun Park, HyeongYeop Kang"
