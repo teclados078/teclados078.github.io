@@ -1,5 +1,8 @@
 ﻿main:
   - title: "CAdam: Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation"
+    image: "/assets/img/publications/CAdam.jpg"
+    image_width: 1134
+    image_height: 756
     authors: "<strong>SeungJeh Chung</strong>, Geonho Park, Misong Kim, HyeongYeop Kang"
     conference_short: "SIGGRAPH"
     conference: "ACM SIGGRAPH Conference Papers, 2026."
@@ -9,11 +12,17 @@
     page: "https://teclados078.github.io/CAdam/"
 
   - title: "ADIScene: Affordance-Guided Diffusion for Interaction-Feasible 3D Scene Generation"
+    image: "/assets/img/publications/ADIScene.png"
+    image_width: 2468
+    image_height: 762
     authors: "Misong Kim, JuYeong Hwang, <strong>SeungJeh Chung</strong>, Jaeyoung Seon, Ri Yu, HyeongYeop Kang"
     conference_short: "ACCV"
     conference: "Asian Conference on Computer Vision (ACCV), 2026."
 
   - title: "3DStyleGLIP: Part-Tailored Text-Guided 3D Neural Stylization"
+    image: "/assets/img/publications/3DStyleGLIP.png"
+    image_width: 1594
+    image_height: 432
     authors: "<strong>SeungJeh Chung</strong>, JooHyun Park, HyeongYeop Kang"
     conference_short: "PG"
     conference: "Pacific Graphics, 2024."
@@ -22,6 +31,9 @@
     code: "https://github.com/teclados078/3DStyleGLIP"
 
   - title: "VRCAT: VR Collision Alarming Technique for User Safety"
+    image: "/assets/img/publications/VRCAT.jpg"
+    image_width: 1800
+    image_height: 669
     authors: "<strong>SeungJeh Chung</strong>, TaeHun Lee, BoRa Jeong, JongWook Jeong, HyeongYeop Kang"
     conference_short: "TVC"
     conference: "The Visual Computer, 2023."
