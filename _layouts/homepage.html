@@ -33,6 +33,7 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css?v={{ site.time | date: '%s' }}">
     {% endif %}
+    <link rel="stylesheet" href="./assets/css/homepage.css?v={{ site.time | date: '%s' }}">
 
   </head>
   <body>
@@ -89,6 +90,12 @@
         </a>
         {% endif %}
 
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}" aria-label="ORCID" title="ORCID">
+          <i class="ai ai-orcid" style="font-size:1.2rem" aria-hidden="true"></i>
+        </a>
+        {% endif %}
+
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
@@ -98,7 +105,7 @@
         <br>
 
       </header>
-      <section>
+      <section class="homepage-content">
 
       {{ content }}
 

@@ -1,0 +1,21 @@
+/* Direct-child lists exclude the separate Publications component. */
+.homepage-content > p,
+.homepage-content > ul,
+.homepage-content > ol {
+  line-height: 1.5;
+}
+
+.homepage-content > ul > li,
+.homepage-content > ol > li {
+  margin: 0;
+}
+
+.homepage-content > ul > li + li,
+.homepage-content > ol > li + li {
+  margin-top: 8px;
+}
+
+.homepage-content > ul > li > p,
+.homepage-content > ol > li > p {
+  margin: 0;
+}

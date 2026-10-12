@@ -9,8 +9,6 @@ I am a Ph.D. student in the Department of Software Convergence at Kyung Hee Univ
 I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-based generative priors, and hybrid neural rendering with physically based global illumination.
 
 **Advisor:** [Prof. HyeongYeop Kang](https://siamiz88.github.io/)  
-**Location:** Seoul, Republic of Korea  
-**ORCID:** [0009-0000-5306-6896](https://orcid.org/0009-0000-5306-6896)  
 **Lab:** [IIIXR Lab](https://iiixr.korea.ac.kr/)
 
 ## Research Interests
