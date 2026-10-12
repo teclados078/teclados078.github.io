@@ -1,3 +1,13 @@
+header .image.avatar img {
+  width: 130px;
+}
+
+@media screen and (max-width: 480px) {
+  header .image.avatar img {
+    width: 110px;
+  }
+}
+
 /* Direct-child lists exclude the separate Publications component. */
 .homepage-content > p,
 .homepage-content > ul,
@@ -12,7 +22,7 @@
 
 .homepage-content > ul > li + li,
 .homepage-content > ol > li + li {
-  margin-top: 8px;
+  margin-top: 3px;
 }
 
 .homepage-content > ul > li > p,
