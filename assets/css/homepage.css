@@ -1,3 +1,7 @@
+header {
+  --profile-media-width: 180px;
+}
+
 header .image.avatar {
   margin: 20px 0;
   border-radius: 12px;
@@ -5,10 +9,22 @@ header .image.avatar {
 
 header .image.avatar img {
   display: block;
-  width: 220px;
+  width: var(--profile-media-width);
   height: auto;
   padding: 0;
   border-radius: 12px;
+}
+
+header .social-icons {
+  display: flex;
+  justify-content: space-between;
+  width: var(--profile-media-width);
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+header .social-icons a {
+  margin: 0;
 }
 
 header email {
@@ -66,6 +82,8 @@ header email {
 .publications .pub-thumbnail {
   display: block;
   background: #fff;
+  border: 1px solid #ccd3dc;
+  box-sizing: border-box;
   border-radius: 6px;
   overflow: hidden;
 }
@@ -73,8 +91,16 @@ header email {
 .publications .pub-thumbnail img {
   display: block;
   width: 100%;
-  height: 120px;
-  object-fit: contain;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (prefers-color-scheme: dark) {
+  .publications .pub-thumbnail {
+    border-color: #596474;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -88,7 +114,4 @@ header email {
     max-width: 360px;
   }
 
-  .publications .pub-thumbnail img {
-    height: auto;
-  }
 }
