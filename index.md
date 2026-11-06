@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Software Convergence at **Kyung Hee University** and a member of **IIIXR Lab at Korea University**. My research focuses on efficient 3D generation, neural rendering, and 3D Gaussian Splatting under generative supervision.
+I am a Ph.D. student in the Department of Software Convergence at **Kyung Hee University** and a member of **IIIXR Lab at Korea University**. My research focuses on 3D environments, spanning generative modeling, neural rendering, and extended reality.
 
-I work on compact 3D representations, 3D Gaussian densification, diffusion/flow-based generative priors, and hybrid neural rendering with physically based global illumination.
+I work on 3D Gaussian Splatting and adaptive densification, diffusion and flow matching models, and hybrid neural rendering with physically based global illumination.
 
 **Advisor:** [Prof. HyeongYeop Kang](https://siamiz88.github.io/)  
 **Lab:** [IIIXR Lab](https://iiixr.korea.ac.kr/)
