@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Software Convergence at **Kyung Hee University** and a member of **IIIXR Lab at Korea University**. My research combines 3D generation and neural rendering to create interactive environments for Physical AI and extended reality. I work on diffusion and flow matching models, affordance-guided scene generation, and 3D Gaussian Splatting and adaptive densification.
+I am a Ph.D. student in the Department of Software Convergence at **Kyung Hee University** and a member of **IIIXR Lab at Korea University**. My research combines 3D generation and neural rendering to create interactive environments for Physical AI and extended reality. Feel free to [email me](mailto:teclados078@khu.ac.kr) with any questions or ideas for collaboration!
 
 **Advisor:** [Prof. HyeongYeop Kang](https://siamiz88.github.io/)  
 **Lab:** [IIIXR Lab](https://iiixr.korea.ac.kr/)
